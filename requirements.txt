@@ -1,0 +1,10 @@
+asgiref @ file:///Users/lhy/Library/Caches/pypoetry/artifacts/22/46/4d/e9d170f76cad59b81e4568f6b37cce88f46df63c197e476a1020862182/asgiref-3.5.2-py3-none-any.whl
+beautifulsoup4 @ file:///Users/lhy/Library/Caches/pypoetry/artifacts/e0/aa/39/7b168d115afeea9a7de54a24de624233f50f1b5a3f67d2e650da99a476/beautifulsoup4-4.11.1-py3-none-any.whl
+cachetools @ file:///Users/lhy/Library/Caches/pypoetry/artifacts/fe/4b/94/b8cfc3b8665f6a1b832d24bde83b3547c5076690668614bcb374dab12c/cachetools-4.2.4-py3-none-any.whl
+decorator @ file:///Users/lhy/Library/Caches/pypoetry/artifacts/4d/74/ae/729f2e391364511a7e58483964b85fa068421ac9bf705625f2db80812d/decorator-4.4.2-py2.py3-none-any.whl
+Django @ file:///Users/lhy/Library/Caches/pypoetry/artifacts/b4/f6/56/4e3a0c1484af6c80509f72ed11e52739e5ebf13d9e7018a99bd4d04f56/Django-4.1.3-py3-none-any.whl
+django-unicorn @ file:///Users/lhy/Library/Caches/pypoetry/artifacts/a4/af/0e/dacc6d3474251212919fcff079a073affd1b366214ba11af4107d45310/django_unicorn-0.49.1-py3-none-any.whl
+orjson @ file:///Users/lhy/Library/Caches/pypoetry/artifacts/99/d7/8e/84b42d27a6ed0326bb0515517454820dc5b2c1ed5e7967e02137e1851c/orjson-3.8.1-cp310-cp310-macosx_10_9_x86_64.macosx_11_0_arm64.macosx_10_9_universal2.whl
+shortuuid @ file:///Users/lhy/Library/Caches/pypoetry/artifacts/38/7d/98/21f7b6359d53f138e944c5426457f79b6d01944be150e335d256f361c3/shortuuid-1.0.11-py3-none-any.whl
+soupsieve @ file:///Users/lhy/Library/Caches/pypoetry/artifacts/9b/5a/a8/0949b7240493f355f5d574cbe0389102ac50a52583ec465be6d377cac7/soupsieve-2.3.2.post1-py3-none-any.whl
+sqlparse @ file:///Users/lhy/Library/Caches/pypoetry/artifacts/a1/af/f8/455c6a9ddac932a7d03e9c6096c170cba497461b2d2b6eb7d0e7bacb70/sqlparse-0.4.3-py3-none-any.whl

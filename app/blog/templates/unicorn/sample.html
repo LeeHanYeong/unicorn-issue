@@ -1,0 +1,8 @@
+{% load unicorn %}
+<div>
+    <h1>Sample</h1>
+    <button unicorn:click="sample">Sample</button>
+    <div>sample_value: {{ sample_value }}</div>
+    {% unicorn 'child' parent=view %}
+    {% unicorn 'child2' parent=view %}
+</div>
